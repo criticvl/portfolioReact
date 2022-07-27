@@ -27,7 +27,6 @@ function CONTACT() {
         <div className='c-info'>
           <div className='c-info-item'>
             <img className='c-icon' src={Phone} alt="Phone" />
-            +995  593 59 67 99
           </div>
           <div className='c-info-item'>
             <img className='c-icon' src={Email} alt="Email" />
