@@ -27,15 +27,13 @@
 }
 
 .p-left-container{
-    overflow: scroll;
-    overflow-x: hidden;
+    overflow-y: scroll;
     height: 100%;
     width: 100%;
 }
 
 .p-right-container{
-    overflow: scroll;
-    overflow-x: hidden;
+    overflow-y: scroll;
     height: 100%;
     width: 100%;
     direction:rtl;

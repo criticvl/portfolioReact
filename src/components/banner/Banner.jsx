@@ -1,6 +1,6 @@
 import React from 'react';
 import "./Banner.css"
-import Dev from "../../img/user.svg"
+import Dev from "../../img/user.png"
 import DownArrow from "../../img/arrow.png"
 
 function BANNER() {

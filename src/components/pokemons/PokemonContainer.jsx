@@ -39,7 +39,7 @@ function PokemonContainer() {
             />
             )}
         </div>
-        <button class="mb-16 rounded-lg shadow w-max bg-purple-900 text-white p-1 px-4 w mt-3 font-semibold" onClick={()=> getAllPokemons()}>Load Pokemons</button>
+        <button id='load-pokemons' class="mb-16 rounded-lg shadow w-max bg-purple-900 text-white p-1 px-4 w mt-3 font-semibold" onClick={()=> getAllPokemons()}>Load More</button>
         </div>
     </div>
   );
