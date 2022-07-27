@@ -8,8 +8,8 @@ function BANNER() {
   <div className="b">
     <div className="b-left">
       <div className='b-left-wrapper'>
-        <h1 className='b-name'>Hi, My name is Beso</h1>
-        <h1 className='b-about'>I'm IT Specialist and Ready to help you with complex topics like:</h1>
+        <h1 className='b-name'>Hi, My name is Ronald McDonald</h1>
+        <h1 className='b-about'>I'm an Experineced IT Specialist and I'm Ready to help you with Complex topics like:</h1>
         <div className="b-title">
           <div className="b-title-wrapper">
             <div className="b-title-item">Web Development</div>
